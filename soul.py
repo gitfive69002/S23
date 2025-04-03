@@ -2,13 +2,13 @@ import requests
 url = "https://telegram.org/support"
 
 data = {
-    "problem": "This channel https://t.me/ is running illegal activities.\n"
-    "It takes money from people to teach DDoS attacks on BGMI, hacking courses,\n"
-    "and attacks on Indian government sites. It also performs DDoS attacks on Telegram VCs.\n"
-    "Now, the channel owner has cleared history, so please review its past week's logs.",
-    "full_name": "SoulCrack Rana",
-    "email": "@gmail.com",
-    "phone_number": "+91",
+    "problem": "This channel https://t.me/V3NOM_CHEAT is running illegal activities.\n"
+    "He takes money from people to teach how to DDoS attacks on BGMI, hacking courses,\n"
+    "and attacks on Indian government sites also. He also performs DDoS attacks on Telegram VCs.\n"
+    "Now, the channel owner has cleared history, so please review his past week's logs.",
+    "full_name": "@venomXcrazy",
+    "email": "appyluci@gmail.com",
+    "phone_number": "+918504016440",
 }
 response = requests.post(url, data=data)
 
